@@ -18,13 +18,14 @@
 <div align="center">
 
 ## 🌐 Connect with Me 🍬
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1CGDH1EiB8/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kumawatvisu?igsh=b3l2YjlkZmhoZXQw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vishal-kumawat-91097025b)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vishal.skumawat3748?si=AkbmOJ3Ta305sTth) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1CGDH1EiB8/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kumawatvisu?igsh=b3l2YjlkZmhoZXQw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vishal-kumawat-91097025b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vishal.skumawat3748?si=AkbmOJ3Ta305sTth) 
 
 </div>
 
 <!-- Snake -->
 <!-- Snake Animation -->
 <div align="center">
+
   ![snake gif](https://github.com/vishal-kumawat-4141/vishal-kumawat-4141/blob/output/github-snake-dark.svg)
 </div>
 
@@ -33,5 +34,6 @@
 <!-- Counter -->
 <!-- Visit Counter -->
 <div align="center">
+
   [![](https://visitcount.itsvg.in/api?id=vishal-kumawat-4141&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
