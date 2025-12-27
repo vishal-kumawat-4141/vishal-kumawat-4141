@@ -4,11 +4,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumawat-4141&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kumawat-4141&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div> -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal-kumawat-4141&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-kumawat-4141&show_icons=true&theme=radical" />
+</p>
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumawat-4141)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumawat-4141&theme=aura&hide_border=true" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kumawat-4141&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kumawat-4141&layout=compact&theme=aura" />
+</p>
+
 
 
 
