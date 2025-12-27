@@ -4,28 +4,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumawat-4141&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kumawat-4141&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div> -->
-<div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal-kumawat-4141&show_icons=true)
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vishal-kumawat-4141&show_icons=true&theme=radical&v=1"
-    width="55%"
-  />
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumawat-4141)
 
-  <br /><br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kumawat-4141&layout=compact)
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumawat-4141&theme=aura&hide_border=true&v=1"
-    width="50%"
-  />
-
-  <br /><br />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kumawat-4141&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=1"
-    width="36%"
-  />
-
-</div>
 
 
 
